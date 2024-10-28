@@ -18,7 +18,7 @@ SoloBomberman is a local multiplayer game where two players can compete against 
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/Seth-vpd/SoloBomberman/Releases) page.
+1. Download the latest release from the [Releases](https://github.com/Seth-vpd/SoloBomberman/tree/main/Releases) page.
 2. Extract the zip file.
 3. Run `SoloBomberman.exe`.
 
